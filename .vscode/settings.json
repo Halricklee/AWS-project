@@ -1,0 +1,7 @@
+  {"files.exclude": {
+    "public/": true
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "terminal.integrated.cwd": "${workspaceFolder}"
+}
